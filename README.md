@@ -2,7 +2,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 
-  - [Absenteeism at Work](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Absenteeism at Work](https://github.com/CyrusTruitt/Absenteeism-at-Work)
 
 
 
