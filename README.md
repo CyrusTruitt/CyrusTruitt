@@ -5,6 +5,7 @@
   - [Absenteeism at Work](https://github.com/CyrusTruitt/Absenteeism-at-Work)
   - [Toman Bike Share](https://github.com/CyrusTruitt/Toman-Bike-Share)
   - [Data Cleaning and Exploratory Data Analysis with Layoffs](https://github.com/CyrusTruitt/Layoffs)
+  - [Movies Data Analysis](https://github.com/CyrusTruitt/MOVIES-Data-Analysis)
 
 
 
