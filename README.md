@@ -6,7 +6,7 @@
   - [Toman Bike Share](https://github.com/CyrusTruitt/Toman-Bike-Share)
   - [Data Cleaning and Exploratory Data Analysis with Layoffs](https://github.com/CyrusTruitt/Layoffs)
   - [Movies Data Analysis](https://github.com/CyrusTruitt/MOVIES-Data-Analysis)
-
+  - [From Data to Diagnosis: A Machine Learning Approach to Predicting Diabetes](https://github.com/CyrusTruitt/From-Data-to-Diagnosis-A-Machine-Learning-Approach-to-Predicting-Diabetes)
 
 
 
