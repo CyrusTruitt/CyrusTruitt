@@ -2,6 +2,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 
+  - [Does Membership Tier Influence Personal Training Conversions? ](https://github.com/CyrusTruitt/Does-Membership-Tier-Influence-Personal-Training-Conversions-)
   - [Absenteeism at Work](https://github.com/CyrusTruitt/Absenteeism-at-Work)
   - [Toman Bike Share](https://github.com/CyrusTruitt/Toman-Bike-Share)
   - [Data Cleaning and Exploratory Data Analysis with Layoffs](https://github.com/CyrusTruitt/Layoffs)
